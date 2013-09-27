@@ -1,0 +1,72 @@
+.reportmenu {
+	margin-bottom : 50px;
+}
+.reportmenu  select{
+	width	: auto;	
+}
+
+.incomestatement {
+	-webkit-print-color-adjust:exact;
+}
+.incomestatement h4{
+	margin		: 0px;
+	text-align	: center;
+	line-height	: 20px;
+}
+
+.incomestatement h3{
+	margin		: 0px;
+	font-weight	: bold;
+	text-align	: center;
+	line-height	: 30px;
+}
+
+.incomestatement table{
+	width			:750px;
+	margin-left		:auto;
+	margin-right	:auto;
+	margin-top		:20px;
+	margin-bottom	:20px;
+}
+
+.incomestatement th{
+	font-size	: 15px;
+	font-weight	: bold;
+	border-bottom-color :grey;
+	border-bottom-style	:inset;
+}
+
+.incomestatement td{
+	font-size	: 13px;
+	margin		: 2px;
+	padding		: 5px;
+}
+
+.incomestatement td.money{
+	text-align:right;
+}
+
+.incomestatement td.no{
+	text-align:center;
+}
+
+.incomestatement .subjudul {
+	font-weight	:bold;
+	font-size	:15px;
+	color		:white; 
+	background-color:lightseagreen;	
+}
+
+.incomestatement .rugi {
+	font-weight	:bold;
+	font-size	:15px;
+	color		:white; 
+	background-color:indianred;	
+}
+
+.incomestatement .laba {
+	font-weight	:bold;
+	font-size	:15px;
+	color		:white; 
+	background-color:greenyellow;	
+}
