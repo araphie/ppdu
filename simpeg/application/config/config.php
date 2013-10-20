@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/Dropbox/simpeg';
+$config['base_url']	= 'http://localhost/ppdu/ppdu/simpeg';
 
 /*
 |--------------------------------------------------------------------------
